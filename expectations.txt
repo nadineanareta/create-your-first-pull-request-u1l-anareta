@@ -1,0 +1,23 @@
+ANARETA, NADINE ARABEL A.
+2022 - 12005
+CMSC 100 - U1L
+
+EXPECTATIONS:
+About the Course:
+1. To have a comprehensive understanding of web development concepts
+2. To have a solid grasp with HTML, CSS, GitHub, and Content Management System
+3. To refresh and have an extensive understanding of JavaScript concepts
+4. To understand and know a wide scope of the hows of MERN stack environment
+5. To share concepts in frontend and backend for building a web application
+
+About the Instructor:
+1. To explain and help us understand the web development concepts
+2. To guide us in refreshing the HTML, CSS, and JavaScript concepts
+3. To introduce and show us the steps in mastering the GitHub and CMS
+4. To share his expertise in building a web application
+
+About the Student:
+1. To have a clear and complete idea of web development concepts
+2. To attain mastery the necessary programming languages needed like HTML, CSS, and JavaScript
+3. To learn how to use GitHub and CMS
+4. To acquire a skill in frontend and backedn for building a web application
