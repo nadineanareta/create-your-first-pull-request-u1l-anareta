@@ -21,3 +21,18 @@ About the Student:
 2. To attain mastery the necessary programming languages needed like HTML, CSS, and JavaScript
 3. To learn how to use GitHub and CMS
 4. To acquire a skill in frontend and backedn for building a web application
+
+-------------------------------------------------------------------------------
+Reviewer:
+I completely agree with the goals given for the student, instructor, and 
+course. It's crucial:
+
+1. That the students leave the course with a thorough understanding of web 
+development principles and a working knowledge of the programming 
+languages mentioned.
+2. For the educator to impart knowledge on web application development 
+while skillfully guiding students through learning and mastering these 
+ideas.
+3. That the course would provide students with a comprehensive 
+understanding of web development principles, proficiency in programming 
+languages, and expertise in using content management systems and tools.
